@@ -42,7 +42,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 ### Text Representation
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| August 19th | Space Vector Models |  <ul><li>[1 - Basic Vectorizarion Approaches]() </li></ul> | <ul><li>[E2 - OneHot Encoding]() </li><li>[E3 - Bag of Words]() </li><li>[E4 - N-grams]() </li><li>[E5 - TF-IDF]() </li><li>[E6 - Basic Vectorization Approaches]() </li><li>[P1 - Sentiment Analysis]() </li> </ul> | 
+| August 19th | Space Vector Models |  <ul><li>[1 - Basic Vectorizarion Approaches]() </li><li>[L2 - OneHot Encoding]() </li><li>[L3 - Bag of Words]() </li><li>[L4 - N-grams]() </li><li>[L5 - TF-IDF]() </li><li>[L6 - Basic Vectorization Approaches]() </li></ul> | <ul><li>[E1 - Sentiment Analysis]() </li><li>[E2 - Homework Analysis]() </li><li>[P1 - Movie Genre Prediction]() **** </li> </ul> | 
 
 
 
