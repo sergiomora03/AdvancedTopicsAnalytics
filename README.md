@@ -42,8 +42,13 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
 | August 19th | Space Vector Models |  <ul><li>[1 - Basic Vectorizarion Approaches](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/Basic%20Vectorizarion%20Approaches.pdf) </li><li>[L2 - OneHot Encoding](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L1-OneHotEncoding.ipynb) </li><li>[L3 - Bag of Words](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L2-BagOfWords.ipynb) </li><li>[L4 - N-grams](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L3-ngrams.ipynb) </li><li>[L5 - TF-IDF](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L4-TFIDF.ipynb) </li></ul> | <ul><li>[E2 - Sentiment Analysis](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E1-SentimentPrediction.ipynb) </li> </ul> | 
-| August 26th | Distributed Representations | <ul><li>[L6 - Basic Vectorization Approaches](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L5-BasicVectorizationApproaches.ipynb) </li><li>[L7 - Text Similarity](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/E3-TextSimilarity.ipynb) </li> | <li>[E3 - Homework Analysis](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E2-HomeworksAnalysis.ipynb) </li> <li>[P1 - Movie Genre Prediction](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/P1-MovieGenrePrediction.ipynb) </li> |
+| August 26th | Distributed Representations | <ul><li>[L6 - Basic Vectorization Approaches](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L5-BasicVectorizationApproaches.ipynb) </li><li>[2 - Word Embbedings]()</li><li>[L7 - Text Similarity](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/E3-TextSimilarity.ipynb) </li> | <li>[E3 - Homework Analysis](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E2-HomeworksAnalysis.ipynb) </li> <li>[P1 - Movie Genre Prediction](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/P1-MovieGenrePrediction.ipynb) </li> |
 
+### NLP with Deep Learning 
+| Date | Session         | Notebooks/Presentations          | Exercises |
+| :----| :----| :------------- | :------------- | 
+| August 26th | Brief Review DL | <ul><li>[3 - Deep Learning Review]()</li></ul> | |
+| August 26th | NLP with RNN and Attention | <ul><li>[4 - RRN and LSTM]()</li><li>[5 - Attention Mechanisms]()</li></ul> | |
 
 
 
