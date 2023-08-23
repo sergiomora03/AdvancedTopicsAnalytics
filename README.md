@@ -37,12 +37,12 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
  ### Intro Natural Language Processing
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| August 19th | Introduction to NLP |  <ul><li>[1 - Introduction to NLP]() </li></ul> <ul><li>[2 - NLP Pipeline]() </li></ul> | <ul><li>[E1 - Text processing]() </li> </ul> | 
+| August 19th | Introduction to NLP |  <ul><li>[1 - Introduction to NLP](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/Introduction%20to%20NLP.pdf) </li></ul> <ul><li>[2 - NLP Pipeline](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/NLP%20Pipeline.pdf) </li></ul> | <ul><li>[E1 - Tokenization](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L1-Tokenization.ipynb) </li> </ul> | 
 
 ### Text Representation
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| August 19th | Space Vector Models |  <ul><li>[1 - Basic Vectorizarion Approaches]() </li><li>[L2 - OneHot Encoding]() </li><li>[L3 - Bag of Words]() </li><li>[L4 - N-grams]() </li><li>[L5 - TF-IDF]() </li><li>[L6 - Basic Vectorization Approaches]() </li></ul> | <ul><li>[E1 - Sentiment Analysis]() </li><li>[E2 - Homework Analysis]() </li><li>[P1 - Movie Genre Prediction]() **** </li> </ul> | 
+| August 19th | Space Vector Models |  <ul><li>[1 - Basic Vectorizarion Approaches](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/Basic%20Vectorizarion%20Approaches.pdf) </li><li>[L2 - OneHot Encoding](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L1-OneHotEncoding.ipynb) </li><li>[L3 - Bag of Words](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L2-BagOfWords.ipynb) </li><li>[L4 - N-grams](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L3-ngrams.ipynb) </li><li>[L5 - TF-IDF](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L4-TFIDF.ipynb) </li><li>[L6 - Basic Vectorization Approaches](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L5-BasicVectorizationApproaches.ipynb) </li></ul> | <ul><li>[E1 - Sentiment Analysis](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E1-SentimentPrediction.ipynb) </li><li>[E2 - Homework Analysis](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E2-HomeworksAnalysis.ipynb) </li><li>[P1 - Movie Genre Prediction](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/P1-MovieGenrePrediction.ipynb) </li> </ul> | 
 
 
 
