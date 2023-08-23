@@ -2,8 +2,7 @@
 
 *Instructor: Sergio A. Mora Pardo*
 
-- email: <sergio.mora@mercadolibre.com.co>
-- linkedin: [sergiomorapardo](https://www.linkedin.com/in/sergiomorapardo/)
+- email: <sergioa.mora@javeriana.edu.co>
 - github: [sergiomora03](http://github.com/sergiomora03)
 
 
