@@ -25,8 +25,8 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 
 ## Evaluation
 
-* 70% Projects (2 projects, 35% each)
-* 20% Exercises
+* 50% Project
+* 40% Exercises
 * 10% Class participation
 
 
@@ -47,7 +47,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 ### NLP with Deep Learning 
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| August 26th | Brief Review DL | <ul><li>[3 - Deep Learning Review]()</li></ul> | |
+| August 26th | Brief Deep Learning Review | <ul><li>[3 - Deep Learning Review]()</li></ul> | |
 | September 2nd | NLP with RNN and Attention | <ul><li>[4 - RRN and LSTM]()</li><li>[5 - TranferLearning]()</li><li>[6 - Attention Mechanisms]()</li></ul> | |
 | September 9th | Encoder-Decoder, Tranformers and BERT | <ul><li>[7 - Autoencoder]()</li><li>[8 - Transformers]()</li><li>[9 - BERT and Family]()</li></ul> | |th
 
