@@ -49,7 +49,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 | :----| :----| :------------- | :------------- | 
 | August 26th | Brief Review DL | <ul><li>[3 - Deep Learning Review]()</li></ul> | |
 | September 2nd | NLP with RNN and Attention | <ul><li>[4 - RRN and LSTM]()</li><li>[5 - TranferLearning]()</li><li>[6 - Attention Mechanisms]()</li></ul> | |
-| September 2nd | Encoder-Decoder, Tranformers and BERT | <ul><li>[7 - Autoencoder]()</li><li>[8 - Transformers]()</li><li>[9 - BERT and Family]()</li></ul> | |
+| September 9th | Encoder-Decoder, Tranformers and BERT | <ul><li>[7 - Autoencoder]()</li><li>[8 - Transformers]()</li><li>[9 - BERT and Family]()</li></ul> | |th
 
 
 
