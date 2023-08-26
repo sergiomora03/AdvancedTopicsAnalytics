@@ -47,7 +47,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 ### NLP with Deep Learning 
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| August 26th | Brief Deep Learning Review | <ul><li>[3 - Introduction Deep Learining MLP](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/IntroductionDeepLearningMLP.ipynb)</li></ul> | |
+| August 26th | Brief Deep Learning Review | <ul><li>[3 - Introduction Deep Learining MLP](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/IntroductionDeepLearningMLP.ipynb)</li><li>[4 - Deep Learning with Keras](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/DeepLearning_keras.ipynb)</li></ul> | |
 | September 2nd | NLP with RNN and Attention | <ul><li>[4 - Recurrent Neural Network and LSTM](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/RecurrentNeuralNetworks_LSTM.ipynb)</li><li>[5 - TranferLearning]()</li><li>[6 - Attention Mechanisms]()</li></ul> | <ul><li>[E6 - LSTM](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E6-LSTM.ipynb)</li></ul>|
 | September 9th | Encoder-Decoder, Tranformers and BERT | <ul><li>[7 - Autoencoder]()</li><li>[8 - Transformers]()</li><li>[9 - BERT and Family]()</li></ul> | |th
 
