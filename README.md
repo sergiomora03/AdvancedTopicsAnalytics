@@ -29,6 +29,8 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 * 40% Exercises
 * 10% Class participation
 
+## Slack Channel
+[Join here! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" width="40" height="40" >](https://join.slack.com/t/03065523302654espacio/shared_invite/zt-22271yk06-zKmBDlbdyjmjth7sdj7WnA) 
 
 ## Schedule
 
