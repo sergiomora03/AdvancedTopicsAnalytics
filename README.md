@@ -55,6 +55,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 ## Extra Material
 | Topic | Material |
 | :----| :----|
+| Word Embedding Projector |[Projector](https://projector.tensorflow.org/)|
 | Polarity | [Sentiment Analysis - Polarity](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/X1-SentimentAnalysisPolarity.ipynb) |
 | Image & Text | [Image Captions](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/X2-image_captions.ipynb) |
 | Hyperparameter Tuning | <ul><li>[Exhaustive Grid Search]()</li> <li>[Randomized Parameter Optimization]()</li> <li>[Automate Hyperparameter Search]()</li></ul> |
