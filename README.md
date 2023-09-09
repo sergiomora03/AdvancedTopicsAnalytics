@@ -65,6 +65,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 | Time Series with LSTM | [ARIMA-SARIMA-Prophet-LSTM](https://www.kaggle.com/code/sergiomora823/time-series-analysis-arima-sarima-prophet-lstm) |
 | Image & Text | [Image Captions](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/X2-image_captions.ipynb) |
 | Hyperparameter Tuning [WIP] | <ul><li>[Exhaustive Grid Search]()</li> <li>[Randomized Parameter Optimization]()</li> <li>[Automate Hyperparameter Search]()</li></ul> |
+| Neural Style Transfer | [Style Transfer](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/X3-style_transfer.ipynb) |
 
 
 
