@@ -52,20 +52,40 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 | September 2nd | Deep Learning in NLP (RNN, LSTM, GRU) | <ul><li>[3 - Intro Deep Learning](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/Intro%20Deep%20Learning.pdf)</li><li>[4 - RNN, LSTM, GRU](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/RNN%2C%20LSTM%20and%20GRU.pdf)</li><li>[L11 - Introduction Deep Learining MLP](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L11-IntroductionDeepLearningMLP.ipynb)</li><li>[L12 - Deep Learning with Keras](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L12-DeepLearning_keras.ipynb)</li><li>[L13 - Recurrent Neural Network and LSTM](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L13-RecurrentNeuralNetworks_LSTM.ipynb)</li><li>[L14 - Headline Generator](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L14-Headline_Generator.ipynb)</li></ul> | <ul><li>[E5 - Neural Networks in Keras](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E5-NeuralNetworksKeras.ipynb)</li><li>[E6 - RNN, LSTM, GRU](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E6-RNN_LSTM_GRU.ipynb)</li></ul>|
 | September 9th | Attention, Tranformers and BERT | <ul><li>[5 - Encoder-Decoder](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/Encoder-Decoder.pdf)</li><li>[6 - Attention Mechanisms and Transformers](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/Attention%20Mechanism.pdf)</li><li>[7 - BERT and Family](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/BERT.pdf)</li><li>[L16 - Positional Encoding](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L15-transformer_positional_encoding_graph.ipynb)</li><li>[L17 - BERT for Sentiment Clasification](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L16-BERT_for_sentiment_classification.ipynb)</li><li>[L18 - Transformers Introduction](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L17-TransformersIntroduction.ipynb)</li></ul> | <ul><li>[E7 - Text Summary](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E7-TextSummary.ipynb)</li><li>[E8 - Question Answering](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E8-QuestionAnswer.ipynb)</li><li>[E9 - Open AI](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E9-OpenAI.ipynb)</li></ul> |
 
-### Graph Machine Learning 
+### Intro Graph
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-|September 16th | Intro to Graphs | | |
+|September 16th | Week of Reflection - No class | No class | No class |
+|September 23th | Intro to Graphs | | |
+|September 23th | Graphs Metrics | | |
+
+### Graph Representation
+| Date | Session         | Notebooks/Presentations          | Exercises |
+| :----| :----| :------------- | :------------- | 
+|october 7th | Adjacency Matrix Representation | | |
+|october 7th | Graph Embedding (Node2Vec) | | |
+
+### Machine Learning with Graphs
+| Date | Session         | Notebooks/Presentations          | Exercises |
+| :----| :----| :------------- | :------------- | 
+|october 14th | Graph Neural Network | | |
+|october 21th | Social Network Analysis | | |
+
+## Interest Links 🔗
+Module | Topic | Material |
+| :----| :----| :----|
+| NLP | Word Embedding Projector |[Tensorflow Embeddings Projector](https://projector.tensorflow.org/)|
+| NLP | Time Series with LSTM | [ARIMA-SARIMA-Prophet-LSTM](https://www.kaggle.com/code/sergiomora823/time-series-analysis-arima-sarima-prophet-lstm) |
+| NLP | Stanford | [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1234/)
+| GML | Stanford | [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 
 ## Extra Material
-| Topic | Material |
-| :----| :----|
-| Word Embedding Projector |[Tensorflow Embeddings Projector](https://projector.tensorflow.org/)|
-| Polarity | [Sentiment Analysis - Polarity](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/X1-SentimentAnalysisPolarity.ipynb) |
-| Time Series with LSTM | [ARIMA-SARIMA-Prophet-LSTM](https://www.kaggle.com/code/sergiomora823/time-series-analysis-arima-sarima-prophet-lstm) |
-| Image & Text | [Image Captions](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/X2-image_captions.ipynb) |
-| Hyperparameter Tuning [WIP] | <ul><li>[Exhaustive Grid Search]()</li> <li>[Randomized Parameter Optimization]()</li> <li>[Automate Hyperparameter Search]()</li></ul> |
-| Neural Style Transfer | [Style Transfer](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/X3-style_transfer.ipynb) |
+Module | Topic | Material |
+| :----| :----| :----|
+| NLP | Polarity | [Sentiment Analysis - Polarity](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/X1-SentimentAnalysisPolarity.ipynb) |
+| NLP | Image & Text | [Image Captions](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/X2-image_captions.ipynb) |
+| ML | Hyperparameter Tuning [WIP] | <ul><li>[Exhaustive Grid Search]()</li> <li>[Randomized Parameter Optimization]()</li> <li>[Automate Hyperparameter Search]()</li></ul> |
+| NLP | Neural Style Transfer | [Style Transfer](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/X3-style_transfer.ipynb) |
 
 
 
