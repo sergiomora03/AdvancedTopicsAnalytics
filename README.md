@@ -62,7 +62,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 ### Graph Representation Learning
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-|october 7th | Adjacency Matrix Representation | | |
+|october 7th | Adjacency Matrix | | |
 |october 7th | Node Embedding (Node2Vec) | | |
 
 ### Machine Learning with Graphs
