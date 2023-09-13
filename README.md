@@ -59,11 +59,11 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 |September 23th | Intro to Graphs | | |
 |September 23th | Graphs Metrics | | |
 
-### Graph Representation
+### Graph Representation Learning
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
 |october 7th | Adjacency Matrix Representation | | |
-|october 7th | Graph Embedding (Node2Vec) | | |
+|october 7th | Node Embedding (Node2Vec) | | |
 
 ### Machine Learning with Graphs
 | Date | Session         | Notebooks/Presentations          | Exercises |
