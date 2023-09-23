@@ -56,7 +56,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
 |September 16th | Week of Reflection - No class | No class | No class |
-|September 23th | Intro to Graphs | <ul><li>[L19 - Intro to Graphs](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L18_IntroductionGraphs.ipynb)</li></ul> | |
+|September 23th | Intro to Graphs | <ul><li>[Intro to Graphs](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/introGRaphs.pdf)</li><li>[L19 - Intro to Graphs](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L18_IntroductionGraphs.ipynb)</li></ul> | |
 |September 23th | Graphs Metrics | <ul><li>[L20 - Graph Metrics](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L19-GraphMetrics.ipynb)</li> <li>[L21 - Graphs Benchmarks](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L20-GraphsBenchmarks.ipynb)</li> <li>[L22 - Facebook Analysis](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L21-FacebookNetworkAnalysis.ipynb)</li> </ul> | [E10 - Twitter Analysis](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E10-TwitterNetworkAnalysis.ipynb) |
 
 ### Graph Representation Learning
