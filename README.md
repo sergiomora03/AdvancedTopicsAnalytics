@@ -62,14 +62,13 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 ### Graph Representation Learning
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-|october 7th | Adjacency Matrix | | |
-|october 7th | Node Embedding (Node2Vec) | [L23 - Graph Embedding](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L22-GraphEmbedding.ipynb) | |
+| September 30th | Graph Representation | <ul><li>[L23 - Graph Embedding](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L22-GraphEmbedding.ipynb)</li><li>[L24 - Deep Walk](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L23-DeepWalk.ipynb)</li><li>[L25 - Bias Random Walks](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L24-BiasRandomWalk.ipynb)</li></ul> | |
 
 ### Machine Learning with Graphs
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-|october 14th | Graph Neural Network | | |
-|october 21th | Social Network Analysis | | |
+| October 7th | Graph Neural Network | <ul><li>[L26 - Graph Neural Networks](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L25-GraphNeuralNetworks.ipynb)</li><li>[L27 - Graph Convolutional Networks](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L26-GraphConvolutionalNetworks.ipynb)</li><li>[L28 - Graph Attention Networks](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L27-GraphAttentionNetworks.ipynb)</li></ul> | |
+| October 14th | Graph Machine Learning Task | <ul><li>[L29 - Graph Classification](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L28-GraphClassification.ipynb)</li><li>[L30 - Link Prediction](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L29-LinkPrediction.ipynb)</li><li>[L31 - Social Network Analysis]()</li></ul> | |
 
 ## Interest Links 🔗
 Module | Topic | Material |
