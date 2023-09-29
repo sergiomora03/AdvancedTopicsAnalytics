@@ -62,7 +62,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 ### Graph Representation Learning
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| September 30th | Graph Representation | <ul><li>[L23 - Graph Embedding](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L22-GraphEmbedding.ipynb)</li><li>[L24 - Deep Walk](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L23-DeepWalk.ipynb)</li><li>[L25 - Node2Vec](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L24-Node2Vec.ipynb)</li><li>[L26 - Recommendation System with Node2Vec](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L25-Node2Vec-RecSys.ipynb)</li></ul> | |
+| September 30th | Graph Representation | <ul><li>[L23 - Graph Embedding](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L22-GraphEmbedding.ipynb)</li><li>[L24 - Deep Walk](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L23-DeepWalk.ipynb)</li><li>[L25 - Node2Vec](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L24-Node2Vec.ipynb)</li><li>[L26 - Recommendation System with Node2Vec](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/L25-Node2Vec-RecSys.ipynb)</li></ul> | <li>[E11 - Patent Citation Network (Node2Vec with RecSys)](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E11-PatentCitationNetwork.ipynb)</li> |
 
 ### Machine Learning with Graphs
 | Date | Session         | Notebooks/Presentations          | Exercises |
