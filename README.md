@@ -30,8 +30,8 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 * 10% Class participation
 
 ## Deadlines
-* NLP project (March 16th)
-* NLP exercises (March 23th)
+* NLP project (expo: March 16th | repo: March 15th)
+* NLP exercises (March 23th, 2024 - 11:59)
 * Graph project (May 25th)
 * Graph exercises (May 25th)
 * Final grade (June 1st)
