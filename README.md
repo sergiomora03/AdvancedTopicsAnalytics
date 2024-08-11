@@ -30,13 +30,13 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 * 10% Class participation
 
 ## Deadlines
-* DL project (September 7th)
-* DL exercises (September 6th)
-* NLP project (October 4th)
-* NLP exercises (October 11th)
-* Graph project (November 9th)
-* Graph exercises (November 9th)
-* Final grade (November 16th)
+| Session | Activity | Deadline | Comments |
+| :---- | :----| :---- | :---- | 
+| Deep Learning | <ul>Exercises</ul> <ul>Project</ul>| <ul>September 6th</ul> | Expo September 7th |
+| NLP | <ul>Exercises</ul> <ul>Project</ul>| <ul>October 11th</ul> <ul>October 4th</ul> | Expo October 5th |
+| Graph Learning | <ul>Exercises</ul> <ul>Project</ul>| <ul>November 9th</ul> |  |
+| Final grade | <ul>project</ul> | <ul>November 16th</ul> |  |
+
 
 ## Slack Channel
 [Join here! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" width="40" height="40" >](https://join.slack.com/t/slack-hpy6250/shared_invite/zt-2d8zu7gwn-WTJsOKCB0ZYCsdZEndy75w) 
