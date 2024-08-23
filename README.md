@@ -39,7 +39,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 
 
 ## Slack Channel
-[Join here! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" width="40" height="40" >](https://join.slack.com/t/slack-hpy6250/shared_invite/zt-2d8zu7gwn-WTJsOKCB0ZYCsdZEndy75w) 
+[Join here! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" width="40" height="40" >](https://join.slack.com/t/slack-gk91906/shared_invite/zt-2p8yq2iwy-qjLVAStbpcQ8WCnEZsKLqQ)
 
 ## Schedule
 
