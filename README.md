@@ -96,6 +96,8 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 | November 9th | Geometric Deep Learning Project | Exercises Deadline | [P3 - Graph Machine Learning](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/P2-GraphMachineLearning.pdf) / [P3 - Graph Machine Learning [old < 2022]](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/notebooks/Proyecto_GML.pdf) |
 
 ### Grades
+| Date | Session         | Notebooks/Presentations          | Exercises |
+| :----| :----| :------------- | :------------- | 
 | November 16th | Final Grades | | |
 
 ## Interest Links 🔗
